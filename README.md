@@ -1,1 +1,1 @@
-This project shows COVID-19 Pakistan's statistics or current situation of Pakistan due to corona virus. The Tableau Public 2020.2 software is used to create these visualizations from a dataset taken from kaggle.
+This project shows COVID-19 Pakistan's statistics or current situation of Pakistan due to corona virus. The Tableau Public 2020.1 software is used to create these visualizations from a dataset taken from kaggle.
